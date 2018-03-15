@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Seu Sorriso</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+
+
+    <!-- Botões -->
+
+    <string name="dez_anos">10 ANOS FUMANTE</string>
+    <string name="vinte_anos">20 ANOS FUMANTE</string>
+    <string name="trinta_anos">30 ANOS FUMANTE</string>
+    <string name="quarenta_anos">40 ANOS FUMANTE</string>
+
+
+</resources>
